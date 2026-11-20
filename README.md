@@ -1,5 +1,10 @@
 # Terminal CLI Music Player
 
+<img width="2842" height="1698" alt="image" src="https://github.com/user-attachments/assets/bb3ea6d1-3abb-4578-a096-8bd75b8cd933" />
+
+<img width="2842" height="1698" alt="image" src="https://github.com/user-attachments/assets/2064bc7c-c2ee-47cc-9b19-93f4a6349aed" />
+
+
 A terminal-based music player in Python built with `curses`, `mutagen`, `Pillow`, and `ffplay`. It organizes music from a `Music -> Artist -> Album -> Songs` directory structure and renders album covers as ASCII art.
 
 > **Note:** This code was written with the use of AI.
