@@ -35,9 +35,11 @@ pip install mutagen pillow
 ```
 
 ### Expected folder layout
+```
 ~/Music/
 └── Artist Name/
     └── Album Name/
         ├── folder.jpg        # or large_cover.jpg
         ├── 01 - Song One.mp3
         └── 02 - Song Two.flac
+```
